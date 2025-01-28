@@ -1,0 +1,8 @@
+1. Unzip the zip
+2. Load the image in Autopsy
+3. Enter in the biggest partition and search for root dir
+4. Here we can see that a bash script was ran
+5. Let's search for that bash on the entire Image
+6. We have 16 results. Check in each file for some information. Find the flag which is separated in group of 3 characters in each file
+
+Video solve: https://www.youtube.com/watch?v=oNmbo_054XE
